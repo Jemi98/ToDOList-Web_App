@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ToDOList-Web_App UI
 
-![](/todolist.PNG)
+![](/todolist.png)
 
 
 ## Available Scripts
